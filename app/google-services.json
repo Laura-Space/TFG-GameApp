@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "194785028688",
+    "project_id": "gameapp-fmain",
+    "storage_bucket": "gameapp-fmain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194785028688:android:ca48fc79e0098870fc7f55",
+        "android_client_info": {
+          "package_name": "com.aina_tfg.gameapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKz3tMZWwBdaBHAso_jNdooV4NB2uqmxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194785028688:android:f91079e69b006b45fc7f55",
+        "android_client_info": {
+          "package_name": "com.laura_tfg.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKz3tMZWwBdaBHAso_jNdooV4NB2uqmxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

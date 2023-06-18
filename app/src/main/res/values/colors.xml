@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores bar -->
+    <color name="app_bar">#921729</color>
+    <color name="app_barSecundaria">#FF7379</color>
+
+    <!-- Colores principales -->
+    <color name="principal">#921729</color>
+    <color name="variantePrincipal">#6C3266</color>
+
+    <!-- Colores secundarios -->
+    <color name="secundario">#9A8ED6</color>
+    <color name="varianteSecundario">#349BDE</color>
+
+    <!-- Color fondo cards -->
+    <color name="card_bg01">#F6F1F1</color>
+    <color name="card_bg02">#F4EEE0</color>
+
+    <!-- Colores básicos -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

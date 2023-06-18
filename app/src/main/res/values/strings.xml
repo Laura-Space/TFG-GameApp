@@ -1,0 +1,9 @@
+<resources>
+    //Nombre app
+    <string name="app_name">Game App</string>
+
+    //Menu lateral
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="men_lateral">Menú lateral</string>
+</resources>
